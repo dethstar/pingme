@@ -1,0 +1,12 @@
+email: your@email
+password: your_email_password
+senders: [people emails you want to check(comma separated)]
+services: [where you want to be notified (desktop,twitter,twilio)]
+terms: [terms to search in the email, can search all or any]
+twitter_handle: "who to hit up on twitter"
+twitter_consumer_key: you get this from twitter
+twitter_consumer_secret: you get this from twitter
+twitter_access_token: you get this from twitter
+twitter_token_secret: you get this from twitter
+twilio_account_sid: you get this from twilio
+twilio_auth_token: probs from twilio
